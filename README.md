@@ -2,6 +2,10 @@
 
 hewwo? h-hewwooo?
 
+```sh
+npm install hewwo
+```
+
 ```js
 const { consowe, __diwname, path } = require('hewwo')
 
