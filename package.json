@@ -1,19 +1,19 @@
 {
   "name": "hewwo",
-  "version": "1.1.0",
-  "description": "h-hewwo? hewwoooo??",
+  "vewsion": "1.1.0",
+  "descwiption": "h-hewwo? hewwoooo??",
   "main": "index.js",
-  "repository": {
+  "wepositowy": {
     "type": "git",
-    "url": "git+ssh://git@github.com/pup/hewwo.git"
+    "uwl": "git+ssh://git@github.com/pup/hewwo.git"
   },
-  "keywords": [
+  "keywowds": [
     "hewwo"
   ],
-  "author": "Olivia Hugger <olivia@fastmail.com>",
-  "license": "AGPL-3.0+",
+  "authow": "Owivia Huggew <olivia@fastmail.com>",
+  "wicense": "AGPW-3.0+",
   "bugs": {
-    "url": "https://github.com/pup/hewwo/issues"
+    "uwl": "https://github.com/pup/hewwo/issues"
   },
-  "homepage": "https://github.com/pup/hewwo#readme"
+  "homepage": "https://github.com/pup/hewwo#weadme"
 }
